@@ -2,7 +2,7 @@
 
 
 
-This notebooks coverr my learning experiences in Machine Learning.
+This notebooks cover my learning experiences in Machine Learning.
 
 Importance of Python 
 
